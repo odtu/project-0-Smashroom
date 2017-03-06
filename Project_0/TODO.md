@@ -1,6 +1,6 @@
 <center> <h4> TODO LIST </h4> </center>
 
  
-- **Write Motor Properties**
-- **Analyze the diagram and explain control system briefly**
+- **Review the Power Source and Control System explanations**
+- **Add IGBT current and voltages graph ,and explanations**
 - **Explain graphs and give more information about them**   
